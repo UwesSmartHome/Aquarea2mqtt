@@ -1,13 +1,13 @@
 AquareaServiceCloudURL="https://aquarea-service.panasonic.com/"
 AquareaSmartCloudURL="https://aquarea-smart.panasonic.com/"
-AquareaServiceCloudLogin="UwesServiceWärmepumpe"
-AquareaServiceCloudPassword="Infineon19"
+AquareaServiceCloudLogin="Uwe"
+AquareaServiceCloudPassword="In19"
 AquateaTimeout=4
 MqttServer="192.168.43.200"
 MqttPort="1883"
 MqttLogin=""
 MqttPass=""
-MqttClientID="B938895373"
+MqttClientID="B93889"
 MqttKeepalive=60
 PoolInterval=20
 LogSecOffset=60
